@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&family=Poppins:wght@200;300;500;600;700&display=swap');
+ 
+body{
+    background-color:#FFECEC;
+    font-family: 'Montserrat', serif;
+
+    
+}
+.contact-us{
+    box-shadow: 11px 12px 0px 0 rgb(0 0 0 / 1);
+}
