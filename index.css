@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&family=Poppins:wght@200;300;500;600;700&display=swap');
+ 
+
+/* .contact-us{
+    box-shadow: 11px 12px 0px 0 rgb(0 0 0 / 1);
+    background-color: #49D1AA;
+} */
+html {
+    height: -webkit-fill-available; We have to fix html height
+}
+body{
+    background-color:#FFECEC;
+    font-family: 'Montserrat', serif;  
+    /* min-height: 100vh; */
+    /* min-height: -webkit-fill-available; */
+}
+

@@ -1,0 +1,13 @@
+<div class="shadow-[13px_14px_0_0_rgba(0,0,0,1)]  border-2 border-black mx-8 ml-5 shadow-lg">
+  <div class="py-2  border-b-2 border-black bg-teal-500" > <p class=" mx-4 text-white text-lg leading-5">Upcoming <br> Projects</p></div>
+
+  <div class="bg-white flex flex-row py-10 px-5  ...">
+    <div><p class="font-light text-3xl leading-6">TrailMint</p>
+    <p class=" my-2 mx-0.5 leading-4 text-slate-600 text-sm">Track your funds, <br>
+      expenses & subscriptions <br>
+      like a pro...</p></div>
+    <div class=" mx-8 -mt-1"><img src="Assets/pana.svg" alt="logo"></div>
+
+  </div>
+
+</div>
